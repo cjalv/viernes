@@ -1,0 +1,7 @@
+On branch master
+Untracked files:
+	.DS_Store
+	cambios.txt
+	"carpeta sin t\303\255tulo/"
+
+nothing added to commit but untracked files present
