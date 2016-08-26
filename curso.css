@@ -1,0 +1,45 @@
+body
+{
+	background-color: blue;
+	color: white;
+	font-style: 16px;
+	font-family: arial;
+
+}
+header
+{
+	background: #0d2
+	width: 50%;
+	
+
+}
+h1
+{
+margin: 0;
+}
+h2
+{
+	margin: 60px 10px;
+	padding: 30px;
+	border: 3px solid yellow;
+	width: 50%
+	height: 200px;
+	text-transform: capitalize;
+	text-transform: center;
+
+
+}
+nav ul li
+{
+	color: yellow;
+	font-weight:  bold;
+
+}
+li.rojo
+{
+	color: red;
+}
+.rojo
+{
+	color: red;
+}
